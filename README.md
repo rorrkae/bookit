@@ -1,2 +1,2 @@
 # bookit
-An app for scheduling club meetings and a few other things
+An app for scheduling book club meetings.
